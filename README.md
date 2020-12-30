@@ -1,3 +1,3 @@
 # Nano-Degree
 
-This repository is a part of Udacity's Data Scientist Nano_Degree Program
+This repository is a part of Udacity's Data Scientist Nano-Degree Program
